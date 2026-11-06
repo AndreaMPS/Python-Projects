@@ -1,15 +1,13 @@
 #!/usr/bin/env python
 # coding: utf-8
+# Colorectal Cancer Screening Survey
 
 # In[1]:
-
 
 #Install Faker Package
 pip install faker
 
-
 # In[2]:
-
 
 #Import faker package & create funtion to assign colon cancer symptoms to patients
 from faker import Faker
