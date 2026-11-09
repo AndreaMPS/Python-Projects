@@ -13,6 +13,12 @@ in the variables data; Seeing if rates are clustered around a certain value, ext
 
 *Glossary: https://collegescorecard.ed.gov/data/glossary/*
 
+# Associated Files - How to Run
+1. Download [CollegeScorecardDataDictionary_Fox] and [asmith_CollegeSc_EDA.py] in one area
+2. Find, download and import the scorecard dataset from the source link as the direct dataset is not included in this repository. Criteria: US colleges, PWI and HBCU, 1996-2023
+3. Open [asmith_CollegeSc_EDA.py] and run
+
+
  #                   ~ Colorectal Cancer Screening Survey ~
 
  **Introduction: Colorectal cancer rates are increasing among young adults, alongside not currently being routinely screened. 
@@ -23,3 +29,8 @@ in the variables data; Seeing if rates are clustered around a certain value, ext
  risk factors and symptoms.**
 
  *Data Source: Python Faker package for a synthetic patient dataset*
+
+ # Associated Files - How to Run
+ 1. Download [ColonC_FakerPatientData_5376.csv] and [asmith_ColonC_FMilestone.py] into one area
+ 2. Import the .csv file into the environment
+ 3. Open and run the Python file
